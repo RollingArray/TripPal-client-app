@@ -22,6 +22,13 @@
     "@angular/router": "~12.1.1",
     "@angular/service-worker": "~12.1.1",
     "@ionic/angular": "^5.5.2",
+    "@ngrx/effects": "^12.2.0",
+    "@ngrx/entity": "^12.2.0",
+    "@ngrx/router-store": "^12.2.0",
+    "@ngrx/store": "^12.2.0",
+    "@ngrx/store-devtools": "^12.2.0",
+    "@ngx-translate/core": "^13.0.0",
+    "@ngx-translate/http-loader": "^6.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
